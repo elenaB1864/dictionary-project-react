@@ -1,18 +1,24 @@
 .App {
+  background-color: #a2a8d3;
   text-align: center;
+}
+.App h1 {
+  margin: 20px 0;
+}
+a {
+  color: #f76b8a;
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #2a2438;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #352f44;
 }
